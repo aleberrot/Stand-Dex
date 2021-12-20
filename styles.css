@@ -1,0 +1,44 @@
+.fondo
+{
+    background-color: #4A3F35;
+    text-align: center;
+}
+
+.titulo
+{
+    margin: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+.texto
+{
+    margin-top: 20px;
+    color: white;
+    text-align: justify;
+}
+
+h1
+{
+    color: white;
+}
+
+li
+{
+    color: white;
+}
+
+.contenido{
+    color:  white;
+    text-align: center;
+    margin: 10px;
+}
+
+.linea
+{
+    color: white;
+}
+
+.lista
+{
+    text-align: left;
+}
